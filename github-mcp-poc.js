@@ -1,0 +1,1 @@
+document.getElementById('output').textContent = 'GitHub MCP server ongoing POC'; 
