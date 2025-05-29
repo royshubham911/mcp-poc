@@ -1,0 +1,1 @@
+document.getElementById('status').textContent = 'successful github MCP poc'; 
